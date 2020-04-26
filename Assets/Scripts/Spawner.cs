@@ -31,9 +31,11 @@ public class Spawner : MonoBehaviour
         while (!stop)
         {
            
-            Vector3 spawnPosition = new Vector3(29, Random.Range(2,10), Random.Range(-27,27));
-
-            Instantiate(dodgeBalls[0], spawnPosition + transform.TransformPoint(0, 0, 0), gameObject.transform.rotation);
+            Vector3 spawnPosition = new Vector3(30, Random.Range(2,6), Random.Range(-8, 8));
+            Instantiate(dodgeBalls[0], spawnPosition, gameObject.transform.rotation);
+//            foreach(var obj in dodgeBalls){
+//                obj.addComponent<throwTest>();
+//            }
             yield return new WaitForSeconds(spawnWait);
             if (GameObject.FindGameObjectsWithTag("Ball").Length >= 10)
             {
