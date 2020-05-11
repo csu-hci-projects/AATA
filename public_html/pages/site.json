@@ -1,0 +1,11 @@
+{
+  "name":"Promoting Health Through VR",
+  "department":"pages/department.json",
+  "pages": [
+    {"type":"page", "title":"Home Page", "menu":"Home", "file":"pages/home.md"},
+    {"type":"page", "title":"Research", "menu":"Research", "file":"pages/research.md"},
+    {"type":"page", "title":"Experiment", "menu":"Experiment", "file":"pages/experiment.md"},
+    {"type":"page", "title":"Results and Conclusion", "menu":"Results", "file":"pages/results.md"},
+    {"type":"page", "title":"About", "menu":"About", "file":"pages/about.md"}
+  ]
+}
