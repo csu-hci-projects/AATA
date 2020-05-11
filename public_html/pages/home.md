@@ -1,0 +1,15 @@
+# Introduction
+Between 2017-2018, the prevalence of obesity was 42.4% within the United States alone and continues to grow.\[1\] Given the increase in obesity and the common lack of physical activity among Americans and people of the world, we developed a project that aims to tackle this problem by giving users the opportunity to exercise at any given time while making it seem like a videogame. This is so that the feeling of playing a videogame makes the user forget the fact that they are working out. It is known that this is of current interest in the world of gaming and decided to attempt to solve the problem with our own approach\[2\]. In order to facilitate the interest of exercise through gaming our project had to be interesting and engaging enough to get people to actually partake in the game. By using newer technologies like VR, the goal was to bring enough interest/wow factor by users to actually pursue trying the game. With the available technologies and widely known platforms such as Unity and hardware like the Oculus Quest, our project came together but this was not an easy task. 
+
+There were many roadblocks our team had to get through, some were faced as soon as we began work due to the complicated set up of unity and the initial structure we had for the project, but this was only the beginning of more obstacles to come our way. Working during these tough times made this project and overall semester much more difficult due to the added stress of this virus that is still taking lives all over the world. It is also worth mentioning that all of our team members had never been exposed to any kind of virtual reality tools so getting started and making the originally desired progress was unfortunately not possible. 
+
+Even with all of the mentioned setbacks, our team was able to create a great looking game that met our initial goal although not with all of the features we were hoping to add. We created a game that keeps the player engaged and sweating since the level of activity can be rigorous at times. The logic behind the game makes sure that the user is able to succeed at the game but not as easily as they may hope. There exists a perfect level of difficulty and finding said difficulty is key to keep the player motivated, much more information will be provided in later sections of the report where a detailed explanation of the code behind the logic of the game will give insight into the inner workings of our game. What follows is a thorough explanation of our project as a whole as well as an examination of experiment’s results used to determine the level of success of our game.
+
+
+# Project Video
+[![DMB](http://img.youtube.com/vi/y1s_1miQq6w/0.jpg)](https://youtu.be/y1s_1miQq6w)
+
+
+# References
+\[1\] 2020. Adult Obesity Facts. (Feb 2020).<https://www.cdc.gov/obesity/data/adult.html>
+\[2\] Coleen McClure and Damian Schofield. Running virtual: The effect of virtual reality on exercise. (????). https://www.jhse.ua.es/article/view/ 2020-v15-n4-effect-virtual-reality-on-exercise
